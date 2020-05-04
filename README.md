@@ -33,16 +33,16 @@ Do wykonania, potrzeba:
 Jak zwykle i ten projekt jest dostępny na zasadach Wolnych Licencji:
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "license")
 
-- - - 
-
-Baw się dobrze, czuj się wolny i pamiętaj o Autorze(ach)! Podziel się tym projektem ze swoimi przyjaciółmi.
-
 >**Uwaga!!!**  
 >
 >W układzie występuje niebezpieczne dla życia napięcie sieciowe!  
 >Po montażu, płytkę drukowaną należy zaizolować lakierem poliuretanowym!  
 >a elementy obudowy, wieko z puszką obudowy skleić!  
 >przepust należy wypełnić silikonem!  
+
+- - - 
+
+Baw się dobrze, czuj się wolny i pamiętaj o Autorze(ach)! Podziel się tym projektem ze swoimi przyjaciółmi.
 
 _Msc. Paweł Sobótka (SQ7EQE)_ 
 
