@@ -37,10 +37,11 @@ Jak zwykle i ten projekt jest dostępny na zasadach Wolnych Licencji:
 
 Baw się dobrze, czuj się wolny i pamiętaj o Autorze(ach)! Podziel się tym projektem ze swoimi przyjaciółmi.
 
->Uwaga!!!  
+>**Uwaga!!!**  
+>
 >W układzie występuje niebezpieczne dla życia napięcie sieciowe!  
 >Po montażu, płytkę drukowaną należy zaizolować lakierem poliuretanowym!  
->a elementy obudowy, wieku z puszką obudowy skleić!  
+>a elementy obudowy, wieko z puszką obudowy skleić!  
 >przepust należy wypełnić silikonem!  
 
 _Msc. Paweł Sobótka (SQ7EQE)_ 
