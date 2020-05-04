@@ -1,5 +1,5 @@
-# fuzzy-octo-tribble
-ac 3-pin socket tester
+# Electrical equipments
+diy ac 3-pin socket tester
 
 Hi, Jak się macie?
 
