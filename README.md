@@ -28,7 +28,7 @@ Do wykonania, potrzeba:
 | | | | brak sieci(L)/brak zero(N) i brak ziemi(E) | 
   
 
-##Credits
+## Credits
 
 Jak zwykle i ten projekt jest dostępny na zasadach Wolnych Licencji:
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "license")
