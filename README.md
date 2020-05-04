@@ -12,8 +12,8 @@ Do wykonania, potrzeba:
 - trzy diody LED,
 - trzy zwykłe diody prostownicze, o napięciu wstecznym min. 1000V i prądzie min. 1A
 - płytka drukowana według dokumentacji zawartej w katalogu [KiCad](/KiCad "Dokumentacja")
-- obudowa, wykonana na drukarce 3D, [Dokumentacja, obudowa](/3dhousing "3Dhousing")
-- mocowania kabla testowego, [Dokumentacja, blaszka](/mechanical "mechanical")
+- obudowa, wykonana na drukarce 3D, [obudowa STL](/3dhousing "3Dhousing")
+- mocowania kabla testowego, [Dokumentacja -> blaszka, obudowa](/mechanical "mechanical")
 - kabel sieciowy, zalewany, trzy-żyłowy, z wtyczką, z uziemieniem
 
 ## Krótka instrukcja obsługi
