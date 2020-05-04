@@ -3,7 +3,7 @@ ac 3-pin socket tester
 
 Hi, Jak się macie?
 
-Zaprezentuje Wam dziś projekt testera gniazd sieciowych 230-240V. Projekt zaczerpnięty z [instructables.com](https://www.instructables.com "Instructables.com").
+Zaprezentuje Wam dziś projekt testera gniazd sieciowych 230-240V. Projekt zaczerpnięty z [instructables.com](https://www.instructables.com/id/DIY-AC-3-Pin-Socket-Tester/ "Instructables.com").
 
 Z uwagi na fakt, że projekt dotyczy kontaktu z siecią prądu przemiennego 230V(Europa), wykonanie go wymaga ogromnego doświadczenia i pewnej, dość dużej wprawy w pracach z napięciem sieciowym.
 
