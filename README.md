@@ -18,8 +18,8 @@ Do wykonania, potrzeba:
 
 ## Krótka instrukcja obsługi
 
-| LED1  |LED2 | LED3 | opis |
-| --- | --- | --- | --- | 
+| LED1 |LED2 | LED3 | opis |
+| :---: | :---: | :---: | :--- | 
 | X | X | | wszystko OK |
 | X | | | niepodłączona ziemia(E) |
 | | X | X | sieć(L) - ziemia(E) odwrócone |
