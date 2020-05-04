@@ -18,13 +18,14 @@ Do wykonania, potrzeba:
 
 ## Krótka instrukcja obsługi
 
-|LED1|LED2|LED3|opis|
-|X|X| |wszystko OK|
-|X| | |niepodłączona ziemia(E)|
-| |X|X|sieć(L) - ziemia(E) odwrócone|
-|X| |X|sieć(L) - zero(N) odwrócone|
-| |X| |brak zero(N)|
-| | | |brak sieci(L)/brak zero(N) i brak ziemi(E)| 
+| LED1  |LED2 | LED3 | opis |
+| --- | --- | --- | --- | 
+| X | X | | wszystko OK |
+| X | | | niepodłączona ziemia(E) |
+| | X | X | sieć(L) - ziemia(E) odwrócone |
+| X | | X | sieć(L) - zero(N) odwrócone |
+| | X | | brak zero(N) |
+| | | | brak sieci(L)/brak zero(N) i brak ziemi(E) | 
   
 
 ##Credits
