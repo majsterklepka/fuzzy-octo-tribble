@@ -33,7 +33,7 @@ Do wykonania, potrzeba:
 Jak zwykle i ten projekt jest dostępny na zasadach Wolnych Licencji:
 - [CC-BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/ "license")
 
->**Uwaga!!!**  
+>:warning:**Uwaga!!!**  
 >
 >W układzie występuje niebezpieczne dla życia napięcie sieciowe!  
 >Po montażu, płytkę drukowaną należy zaizolować lakierem poliuretanowym!  
